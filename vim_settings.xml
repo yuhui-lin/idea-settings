@@ -147,12 +147,12 @@
         <mark key="^" line="9" column="50" />
         <mark key="." line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/note/_inbox.md" timestamp="1511131793007">
-        <mark key="'" line="10" column="12" />
-        <mark key="[" line="34" column="45" />
-        <mark key="]" line="41" column="38" />
-        <mark key="^" line="41" column="38" />
-        <mark key="." line="41" column="38" />
+      <file name="$USER_HOME$/Dropbox/note/_inbox.md" timestamp="1511140528409">
+        <mark key="'" line="30" column="32" />
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="39" column="45" />
+        <mark key="^" line="39" column="45" />
+        <mark key="." line="39" column="45" />
       </file>
       <file name="$USER_HOME$/work/IdeaProjects/HelloWorld/src/main/scala/Worksheet.sc" timestamp="1510459111160">
         <mark key="[" line="2" column="9" />
@@ -277,6 +277,7 @@
       <jump line="25" column="6" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/AsyncController.scala" />
       <jump line="29" column="44" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/AsyncController.scala" />
       <jump line="10" column="12" filename="$USER_HOME$/Dropbox/note/_inbox.md" />
+      <jump line="30" column="32" filename="$USER_HOME$/Dropbox/note/_inbox.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
