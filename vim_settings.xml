@@ -237,6 +237,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/note/prompt.md" timestamp="1511194572110">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="369" column="0" />
+        <mark key="]" line="369" column="28" />
+        <mark key="." line="369" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="16" column="0" filename="$USER_HOME$/work/IdeaProjects/demoboot/src/main/java/com/exampleboot/boot/model/Post.java" />
@@ -285,10 +291,11 @@
       <jump line="20" column="42" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/Module.scala" />
       <jump line="22" column="25" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/Module.scala" />
       <jump line="3" column="17" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/Module.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/note/prompt.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">RGlyZWN0IE51bWJlcjooODY2KSA1OTItODg0NQo=</text>
       </register>
       <register name="-" type="4">
         <text>Stop</text>
@@ -297,34 +304,34 @@
         <text encoding="base64">XDxBcHBsaWNhdGlvblRpbWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIlN0YXJ0MiIpCg==</text>
+        <text encoding="base64">KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">RGlyZWN0IE51bWJlcjooODY2KSA1OTItODg0NQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IW1hdmVuLXdyYXBwZXIuamFyCg==</text>
+        <text encoding="base64">LSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IW1hdmVuLXdyYXBwZXIuamFyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmZWVkYmFjay5zZXRJZChURVNUX09XTkVSX0lEKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dWh1aS5zcHJpbmcuZmVlZGJhY2sucmVwb3NpdG9yeS5DdXN0b21lclJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmZWVkYmFjay5zZXRJZChURVNUX09XTkVSX0lEKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQ3VzdG9tZXJSZXBvc2l0b3J5IGN1c3RvbWVyUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dWh1aS5zcHJpbmcuZmVlZGJhY2sucmVwb3NpdG9yeS5DdXN0b21lclJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwLmdldCgwKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQ3VzdG9tZXJSZXBvc2l0b3J5IGN1c3RvbWVyUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC52YWxpZGF0aW9uLlZhbGlkYXRvcjsK</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwLmdldCgwKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQZXJzb24gcGVyc29uID0gbmV3IFBlcnNvbigpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC52YWxpZGF0aW9uLlZhbGlkYXRvcjsK</text>
       </register>
     </registers>
     <search>
