@@ -209,8 +209,8 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/AsyncController.scala" timestamp="1511130422983">
-        <mark key="'" line="29" column="44" />
+      <file name="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/AsyncController.scala" timestamp="1511143816832">
+        <mark key="'" line="42" column="4" />
         <mark key="[" line="29" column="39" />
         <mark key="]" line="29" column="38" />
         <mark key="^" line="29" column="38" />
@@ -278,6 +278,9 @@
       <jump line="29" column="44" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/AsyncController.scala" />
       <jump line="10" column="12" filename="$USER_HOME$/Dropbox/note/_inbox.md" />
       <jump line="30" column="32" filename="$USER_HOME$/Dropbox/note/_inbox.md" />
+      <jump line="41" column="17" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/AsyncController.scala" />
+      <jump line="8" column="51" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/AsyncController.scala" />
+      <jump line="42" column="4" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/AsyncController.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -287,7 +290,7 @@
         <text>Stop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1lXD4=</text>
+        <text encoding="base64">XDxhY3RvclN5c3RlbVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oIlN0YXJ0MiIpCg==</text>
@@ -321,10 +324,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxhY3RvclN5c3RlbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxhY3RvclN5c3RlbVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -341,6 +344,8 @@
         <entry encoding="base64">XDx0aXRsZVw+</entry>
         <entry encoding="base64">XDxnbHlwaFw+</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
+        <entry encoding="base64">XDxhY3RvclN5c3RlbVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
