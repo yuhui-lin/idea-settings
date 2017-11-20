@@ -85,6 +85,7 @@
         <mark key="." line="1" column="50" />
         <mark key="^" line="1" column="50" />
       </file>
+      <file name="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/HomeController.scala" timestamp="1511192146004" />
       <file name="$USER_HOME$/work/IdeaProjects/demoboot/src/main/resources/templates/index.html" timestamp="1509809809699">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="10" column="6" />
@@ -159,7 +160,8 @@
         <mark key="]" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/Module.scala" timestamp="1511120088314">
+      <file name="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/Module.scala" timestamp="1511192566015">
+        <mark key="'" line="3" column="17" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
@@ -271,7 +273,6 @@
       <jump line="7" column="4" filename="$USER_HOME$/work/IdeaProjects/spring-feedback/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/work/IdeaProjects/spring-feedback/.gitignore" />
       <jump line="54" column="1" filename="$USER_HOME$/work/IdeaProjects/akka-quickstart-scala/src/main/scala/com/lightbend/akka/sample/AkkaQuickstart.scala" />
-      <jump line="22" column="28" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/Module.scala" />
       <jump line="24" column="1" filename="$USER_HOME$/work/IdeaProjects/akka-quickstart-scala/src/main/scala/com/lightbend/akka/sample/AkkaQuickstart.scala" />
       <jump line="13" column="0" filename="$USER_HOME$/work/IdeaProjects/akka-quickstart-scala/src/main/scala/com/lightbend/akka/sample/AkkaQuickstart.scala" />
       <jump line="25" column="6" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/AsyncController.scala" />
@@ -281,6 +282,9 @@
       <jump line="41" column="17" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/AsyncController.scala" />
       <jump line="8" column="51" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/AsyncController.scala" />
       <jump line="42" column="4" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/controllers/AsyncController.scala" />
+      <jump line="20" column="42" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/Module.scala" />
+      <jump line="22" column="25" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/Module.scala" />
+      <jump line="3" column="17" filename="$USER_HOME$/work/IdeaProjects/play-scala-starter-example/app/Module.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -290,7 +294,7 @@
         <text>Stop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3RvclN5c3RlbVw+</text>
+        <text encoding="base64">XDxBcHBsaWNhdGlvblRpbWVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oIlN0YXJ0MiIpCg==</text>
@@ -324,10 +328,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3RvclN5c3RlbVw+</last-search>
+      <last-search encoding="base64">XDxBcHBsaWNhdGlvblRpbWVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3RvclN5c3RlbVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxBcHBsaWNhdGlvblRpbWVyXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -346,6 +350,7 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
         <entry encoding="base64">XDxhY3RvclN5c3RlbVw+</entry>
+        <entry encoding="base64">XDxBcHBsaWNhdGlvblRpbWVyXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
